@@ -27,7 +27,7 @@ Web Application focus on Tuition for students to be helped by qualified people o
 - Web application deployment
 
 ### Wireframes
-[Here] (https://ninjamock.com/s/21DL5Gx)
+[Here](https://ninjamock.com/s/21DL5Gx)
 
 ### License
 [Here](https://github.com/jpeguero1989/Tuition4Less/commit/b90b30dddb09c71117ae0b8ab5a6a6d420e9decf)
