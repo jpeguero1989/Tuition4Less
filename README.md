@@ -4,7 +4,11 @@ Web Application focus on Tuition for students to be helped by qualified people o
 
 ### Features
 
-1.
+1. User will be able to register as Estudent or Teacher.
+2. Student will be able to find the subject that they need tuition on.
+3. Student will be able to get in contact with the teachers.
+4. Teacher can show the subjects they teach.
+5. Student
 
 
 
