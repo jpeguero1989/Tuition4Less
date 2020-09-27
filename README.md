@@ -26,5 +26,8 @@ Web Application focus on Tuition for students to be helped by qualified people o
 - RESTful Api
 - Web application deployment
 
+### License
+[Here](https://github.com/jpeguero1989/Tuition4Less/commit/b90b30dddb09c71117ae0b8ab5a6a6d420e9decf)
+
 ### Project Track
 [Trello](https://trello.com/)
